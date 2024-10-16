@@ -1,0 +1,2 @@
+1. Adaptive Softmax?
+2. Tie weights?
